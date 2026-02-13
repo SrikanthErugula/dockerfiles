@@ -3,4 +3,4 @@ ENV COURSE:"DOCKERVM" \
     trainer="Siva" \
     Duration="10hrs"
 
-CMD ["sleep" , "10"]
+CMD ["sleep","10"]
