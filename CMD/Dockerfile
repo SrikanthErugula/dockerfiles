@@ -1,5 +1,5 @@
 # FROM run:v1  
-# it will comes from local repo if not in that.. we will get error like permission denied
+# it will comes from local repo if not in that.. we will get error like permission denied or not found
 
 
 FROM almalinux:9 
