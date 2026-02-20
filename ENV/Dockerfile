@@ -1,5 +1,5 @@
 FROM almalinux:9
-ENV COURSE:"DOCKERVM" \
+ENV COURSE:"DOCKER" \
     trainer="Siva" \
     Duration="10hrs"
 CMD ["sleep","5000"]
